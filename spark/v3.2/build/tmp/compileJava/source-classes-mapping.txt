@@ -1,0 +1,44 @@
+com/talaria/spark/sql/TalariaSource.java
+ com.talaria.spark.sql.TalariaSource
+com/talaria/spark/sql/OrcColumnVector.java
+ com.talaria.spark.sql.OrcColumnVector
+com/talaria/spark/sql/TalariaContinuousStream.java
+ com.talaria.spark.sql.TalariaContinuousStream
+com/talaria/spark/sql/MicroBatchStreamExample.java
+ com.talaria.spark.sql.MicroBatchStreamExample
+com/talaria/spark/sql/ContinuousStreamExample.java
+ com.talaria.spark.sql.ContinuousStreamExample
+com/talaria/spark/sql/TalariaBatch.java
+ com.talaria.spark.sql.TalariaBatch
+com/talaria/spark/sql/TalariaScanBuilder.java
+ com.talaria.spark.sql.TalariaScanBuilder
+com/talaria/spark/sql/TalariaOffset.java
+ com.talaria.spark.sql.TalariaOffset
+com/talaria/spark/sql/TalariaPartitionReaderFactory.java
+ com.talaria.spark.sql.TalariaPartitionReaderFactory
+com/talaria/spark/sql/TalariaTable.java
+ com.talaria.spark.sql.TalariaTable
+com/talaria/spark/sql/TalariaOffsetStore.java
+ com.talaria.spark.sql.TalariaOffsetStore
+com/talaria/spark/sql/TalariaColumnarPartitionReader.java
+ com.talaria.spark.sql.TalariaColumnarPartitionReader
+com/talaria/spark/sql/TalariaContinuousPartitionReaderFactory.java
+ com.talaria.spark.sql.TalariaContinuousPartitionReaderFactory
+com/talaria/spark/sql/TalariaMicroBatchStream.java
+ com.talaria.spark.sql.TalariaMicroBatchStream
+com/talaria/spark/sql/SparkUtil.java
+ com.talaria.spark.sql.SparkUtil
+com/talaria/spark/sql/ReadOptions.java
+ com.talaria.spark.sql.ReadOptions
+com/talaria/spark/sql/TalariaContinuousStreamPartition.java
+ com.talaria.spark.sql.TalariaContinuousStreamPartition
+com/talaria/spark/sql/BatchExample.java
+ com.talaria.spark.sql.BatchExample
+com/talaria/spark/sql/TalariaContinuousStreamPartitionReader.java
+ com.talaria.spark.sql.TalariaContinuousStreamPartitionReader
+com/talaria/spark/sql/TalariaScan.java
+ com.talaria.spark.sql.TalariaScan
+com/talaria/spark/sql/TalariaPartition.java
+ com.talaria.spark.sql.TalariaPartition
+com/talaria/spark/sql/TalariaContinuousStreamPartitionOffset.java
+ com.talaria.spark.sql.TalariaContinuousStreamPartitionOffset
